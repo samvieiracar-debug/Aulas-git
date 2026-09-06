@@ -2,4 +2,4 @@
 
 
 Just a repo for Git study lessons.
-![./image.jpg](Git Leassons)
+![./images.jpg](Git Leassons)
